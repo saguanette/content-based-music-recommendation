@@ -11,6 +11,3 @@ The dataset used in this project is sourced from Kaggle. It contains various fea
 5 recommended songs based on cosine similarity 
 ![5 Recommended Songs based on Cosine Similarity](https://github.com/saguanette/ContentBasedMusicRecommendationSystem/blob/main/rec2.png) 
 
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
